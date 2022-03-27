@@ -11,6 +11,7 @@
   inputs.src-nimblas-0_2_2.ref   = "refs/tags/0.2.2";
   inputs.src-nimblas-0_2_2.owner = "andreaferretti";
   inputs.src-nimblas-0_2_2.repo  = "nimblas";
+  inputs.src-nimblas-0_2_2.dir   = "";
   inputs.src-nimblas-0_2_2.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

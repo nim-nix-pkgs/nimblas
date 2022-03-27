@@ -11,6 +11,7 @@
   inputs.src-nimblas-master.ref   = "refs/heads/master";
   inputs.src-nimblas-master.owner = "andreaferretti";
   inputs.src-nimblas-master.repo  = "nimblas";
+  inputs.src-nimblas-master.dir   = "";
   inputs.src-nimblas-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
