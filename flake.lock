@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "0_1_1",
-        "lastModified": 1652367277,
-        "narHash": "sha256-C1pE1kRus1OHcoFFpRfZ8P82Ouek5G5MaN+1PKD1GJ0=",
+        "lastModified": 1652391289,
+        "narHash": "sha256-sGrNX318mLv+FBoKyAszGBUyaqYj6siJ/6Gl4ckkrDc=",
         "owner": "nim-nix-pkgs",
         "repo": "nimblas",
-        "rev": "fae72a6c5dede7b53e5b8611ee95f35aa0dbf51d",
+        "rev": "5445440a5c8c343728d2e8af20bcc08ce42e19cc",
         "type": "github"
       },
       "original": {
@@ -60,11 +60,11 @@
       },
       "locked": {
         "dir": "0_1_2",
-        "lastModified": 1652367277,
-        "narHash": "sha256-C1pE1kRus1OHcoFFpRfZ8P82Ouek5G5MaN+1PKD1GJ0=",
+        "lastModified": 1652391289,
+        "narHash": "sha256-sGrNX318mLv+FBoKyAszGBUyaqYj6siJ/6Gl4ckkrDc=",
         "owner": "nim-nix-pkgs",
         "repo": "nimblas",
-        "rev": "fae72a6c5dede7b53e5b8611ee95f35aa0dbf51d",
+        "rev": "5445440a5c8c343728d2e8af20bcc08ce42e19cc",
         "type": "github"
       },
       "original": {
@@ -87,11 +87,11 @@
       },
       "locked": {
         "dir": "0_1_3",
-        "lastModified": 1652367277,
-        "narHash": "sha256-C1pE1kRus1OHcoFFpRfZ8P82Ouek5G5MaN+1PKD1GJ0=",
+        "lastModified": 1652391289,
+        "narHash": "sha256-sGrNX318mLv+FBoKyAszGBUyaqYj6siJ/6Gl4ckkrDc=",
         "owner": "nim-nix-pkgs",
         "repo": "nimblas",
-        "rev": "fae72a6c5dede7b53e5b8611ee95f35aa0dbf51d",
+        "rev": "5445440a5c8c343728d2e8af20bcc08ce42e19cc",
         "type": "github"
       },
       "original": {
@@ -114,11 +114,11 @@
       },
       "locked": {
         "dir": "0_1_4",
-        "lastModified": 1652367277,
-        "narHash": "sha256-C1pE1kRus1OHcoFFpRfZ8P82Ouek5G5MaN+1PKD1GJ0=",
+        "lastModified": 1652391289,
+        "narHash": "sha256-sGrNX318mLv+FBoKyAszGBUyaqYj6siJ/6Gl4ckkrDc=",
         "owner": "nim-nix-pkgs",
         "repo": "nimblas",
-        "rev": "fae72a6c5dede7b53e5b8611ee95f35aa0dbf51d",
+        "rev": "5445440a5c8c343728d2e8af20bcc08ce42e19cc",
         "type": "github"
       },
       "original": {
@@ -141,11 +141,11 @@
       },
       "locked": {
         "dir": "0_2_0",
-        "lastModified": 1652367277,
-        "narHash": "sha256-C1pE1kRus1OHcoFFpRfZ8P82Ouek5G5MaN+1PKD1GJ0=",
+        "lastModified": 1652391289,
+        "narHash": "sha256-sGrNX318mLv+FBoKyAszGBUyaqYj6siJ/6Gl4ckkrDc=",
         "owner": "nim-nix-pkgs",
         "repo": "nimblas",
-        "rev": "fae72a6c5dede7b53e5b8611ee95f35aa0dbf51d",
+        "rev": "5445440a5c8c343728d2e8af20bcc08ce42e19cc",
         "type": "github"
       },
       "original": {
@@ -168,11 +168,11 @@
       },
       "locked": {
         "dir": "0_2_1",
-        "lastModified": 1652367277,
-        "narHash": "sha256-C1pE1kRus1OHcoFFpRfZ8P82Ouek5G5MaN+1PKD1GJ0=",
+        "lastModified": 1652391289,
+        "narHash": "sha256-sGrNX318mLv+FBoKyAszGBUyaqYj6siJ/6Gl4ckkrDc=",
         "owner": "nim-nix-pkgs",
         "repo": "nimblas",
-        "rev": "fae72a6c5dede7b53e5b8611ee95f35aa0dbf51d",
+        "rev": "5445440a5c8c343728d2e8af20bcc08ce42e19cc",
         "type": "github"
       },
       "original": {
@@ -195,11 +195,11 @@
       },
       "locked": {
         "dir": "0_2_2",
-        "lastModified": 1652367277,
-        "narHash": "sha256-C1pE1kRus1OHcoFFpRfZ8P82Ouek5G5MaN+1PKD1GJ0=",
+        "lastModified": 1652391289,
+        "narHash": "sha256-sGrNX318mLv+FBoKyAszGBUyaqYj6siJ/6Gl4ckkrDc=",
         "owner": "nim-nix-pkgs",
         "repo": "nimblas",
-        "rev": "fae72a6c5dede7b53e5b8611ee95f35aa0dbf51d",
+        "rev": "5445440a5c8c343728d2e8af20bcc08ce42e19cc",
         "type": "github"
       },
       "original": {
@@ -222,11 +222,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652367277,
-        "narHash": "sha256-C1pE1kRus1OHcoFFpRfZ8P82Ouek5G5MaN+1PKD1GJ0=",
+        "lastModified": 1652391289,
+        "narHash": "sha256-sGrNX318mLv+FBoKyAszGBUyaqYj6siJ/6Gl4ckkrDc=",
         "owner": "nim-nix-pkgs",
         "repo": "nimblas",
-        "rev": "fae72a6c5dede7b53e5b8611ee95f35aa0dbf51d",
+        "rev": "5445440a5c8c343728d2e8af20bcc08ce42e19cc",
         "type": "github"
       },
       "original": {
